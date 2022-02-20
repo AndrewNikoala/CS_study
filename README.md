@@ -1,3 +1,1 @@
-# HelloWorld
-test repository
-I`m Gregory
+Im going to create different tasks to research new technologies and get knowledges
